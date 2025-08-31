@@ -1,0 +1,4 @@
+record_id,patient_id,timestamp,analyte,value,unit,diagnosis
+1,P001,2025-02-01T10:00:00,CRP,4.2,mg/L,Inflammation
+2,P001,2025-02-01T10:00:00,WBC,6.8,10^9/L,Inflammation
+3,P002,2025-03-11T12:30:00,Glucose,92,mg/dL,Normal
